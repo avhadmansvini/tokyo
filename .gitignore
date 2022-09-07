@@ -1,2 +1,3 @@
-exclude *.css ,*.java
+*.css
+*.java
 
